@@ -1,4 +1,4 @@
-
+teste
 # Ecommerce Tradicional
 ## Descrição do Projeto
 Este é um projeto de Ecommerce Tradicional que permite aos usuários navegarem, selecionarem e comprarem produtos de forma eficiente e segura. A plataforma foi projetada para oferecer uma experiência de compra intuitiva e robusta, suportando uma ampla variedade de funcionalidades essenciais para o comércio eletrônico moderno.
